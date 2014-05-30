@@ -47,3 +47,59 @@ border-spacing: 0;
 }
 
 /*page style*/
+#header{
+    width:370px;
+    margin-right:0px;
+    margin-left:auto;
+    margin-top:10px;
+}
+
+#header button{
+    border:0px;
+}
+
+#header .text{
+    margin-right:5px;
+    margin-left:5px;
+    text-decoration:none;
+    color:black;
+}
+
+#header .images{
+    margin-right:10px;
+    margin-left:10px;
+}
+
+#header #usericon{
+    float:right;
+    margin-top:0px;
+    margin-right:10px;
+}
+
+.logo{
+	height:100px;
+	width:300px;
+	margin:20px auto 0px auto;
+}
+#search{
+	width: 600px;
+	margin: 15px auto;
+}
+#search input{
+	width:600px;
+	height:20px;
+}
+.buttons{
+	height:29px;
+    display:inline-block;
+    border:1px solid #D0D0EA;
+    border-radius:2px;
+}
+#button1{
+	margin-right:5px;
+}
+
+#buttonlist{
+	width:250px;
+	margin: 0 auto;
+}
